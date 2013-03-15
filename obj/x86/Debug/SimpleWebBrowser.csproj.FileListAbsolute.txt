@@ -1,0 +1,14 @@
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\SimpleWebBrowser.exe
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\SimpleWebBrowser.pdb
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleXml.xml
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\SimpleWebBrowser.MainForm.resources
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.application
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\Mohammed\documents\visual studio 2010\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\x86\Debug\SimpleWebBrowser.application

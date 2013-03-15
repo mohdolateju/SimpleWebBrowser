@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<simplewebbrowser>
+  <home>
+    <url>http://www.google.com</url>
+  </home>
+  <favourites>
+    <favourite>
+      <name>Google</name>
+      <url>www.google.com</url>
+    </favourite>
+  </favourites>
+  <historylist>
+    <history>
+      <time>16:05:36.3706162 30 10 2012</time>
+      <url>http://www.google.com</url>
+    </history>
+    <history>
+      <time>02:30:46.1690337 6 11 2012</time>
+      <url>http://www.google.com</url>
+    </history>
+    <history>
+      <time>02:30:53.4854465 6 11 2012</time>
+      <url>http://www.google.com</url>
+    </history>
+  </historylist>
+</simplewebbrowser>
